@@ -1,4 +1,3 @@
-```markdown
 # 🛒 CRUD Java E-commerce - Backend
 
 Este projeto é um backend simples para um sistema de e-commerce, desenvolvido com **Spring Boot** e **Java 21**. Ele oferece uma API RESTful para gerenciamento de produtos, com funcionalidades de **criação**, **leitura**, **atualização** e **remoção** (CRUD).
